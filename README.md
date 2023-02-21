@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h align="center">Minecraft Autoclicker</h3>
+  <h1 align="center">Minecraft Autoclicker</h3>
 
   <p align="center">
     A Simple C# autoclicker that in theory shouldn't be detected by anticheats.
