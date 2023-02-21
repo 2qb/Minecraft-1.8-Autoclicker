@@ -16,7 +16,7 @@
 ![screenshot](https://user-images.githubusercontent.com/68710010/220363085-ee45ff57-51e6-4c81-9fcb-e27d0d4110cb.png)
 
 
-* CPS Randomization (1-4 difference)
+* CPS Randomization (1-4 variation)
 * Only works in the minecraft process
 * Bindable
 
